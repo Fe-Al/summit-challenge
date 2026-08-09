@@ -36,8 +36,12 @@ There is no backend, account authentication, password handling, cookie-based ide
 
 ## Specifications
 
-- [Version 3 — current local-only specification](summit-challenge-codex-specification-v3.md)
-- [Version 2 — archived Supabase specification](summit-challenge-codex-specification-v2.md)
-- [Original specification](summit-challenge-codex-specification.md)
+- [Version 3 — current local-only specification](docs/specifications/summit-challenge-specification-v3.md)
+- [Version 2 — archived Supabase specification](docs/specifications/summit-challenge-specification-v2.md)
+- [Version 1 — original specification](docs/specifications/summit-challenge-specification-v1.md)
 
 Version 3 contains the complete planned requirements, security assumptions, accessibility goals, test expectations and definition of done.
+
+## Design documentation
+
+- [Project design overview](docs/design-overview.md) — module responsibilities, data contracts, user interactions, repository boundaries and principal data flows.
