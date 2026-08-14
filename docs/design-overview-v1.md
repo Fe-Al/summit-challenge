@@ -1,8 +1,8 @@
-# Summit Challenge — Project Design Overview
+# Summit Challenge — Project Design Overview, Version 1 (Archived)
 
 ## Document status
 
-This document describes the intended implementation architecture for Summit Challenge Version 3. It complements the [current specification](specifications/summit-challenge-specification-v3.md); if the two documents conflict, the specification is authoritative.
+This archived document describes the original intended implementation architecture for Summit Challenge Version 3. It has been superseded by [Project Design Overview, Version 2](design-overview-v2.md), which separates product runtime concerns from development and delivery concerns. The [current specification](specifications/summit-challenge-specification-v3.md) remains authoritative.
 
 The application is a static, local-only browser game. It has no backend, authentication, cookies, analytics or external runtime API. Profiles, active games and results live in the browser's IndexedDB database and may be manually transferred through validated JSON files.
 

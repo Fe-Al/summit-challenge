@@ -44,4 +44,6 @@ Version 3 contains the complete planned requirements, security assumptions, acce
 
 ## Design documentation
 
-- [Project design overview](docs/design-overview.md) — module responsibilities, data contracts, user interactions, repository boundaries and principal data flows.
+- [Project design overview, Version 3 — current](docs/design-overview-v3.md) — separates development capability, system architecture and processes, and production deliverables and use.
+- [Project design overview, Version 2 — archived](docs/design-overview-v2.md) — separates product runtime architecture from development, verification and delivery responsibilities.
+- [Project design overview, Version 1 — archived](docs/design-overview-v1.md) — original combined product and delivery overview.
