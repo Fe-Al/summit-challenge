@@ -1,5 +1,11 @@
 # Summit Challenge — Project Design Overview, Version 3
 
+> **Archived planned baseline.** This document records the Version 3 design before
+> implementation. For the current deployed architecture and operational evidence,
+> see [Project Design Overview, Version 3.1](design-overview-v3.1.md). The
+> [Version 3 specification](specifications/summit-challenge-specification-v3.md)
+> remains the authoritative product specification.
+
 ## Document status and authority
 
 This document describes the intended design of Summit Challenge Version 3. The project is currently in the specification stage; the components and processes below are planned rather than descriptions of an already deployed system.
