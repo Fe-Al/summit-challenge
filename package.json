@@ -1,0 +1,19 @@
+{
+  "name": "summit-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build": "vite build",
+    "preview": "vite preview",
+    "audit": "npm audit --audit-level=high"
+  },
+  "devDependencies": {
+    "fake-indexeddb": "^6.2.5",
+    "vite": "^8.2.0",
+    "vitest": "^4.1.10"
+  }
+}
