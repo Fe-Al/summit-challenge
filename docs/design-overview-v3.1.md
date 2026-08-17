@@ -41,7 +41,8 @@ privacy posture or local-only data model defined by Specification Version 3.
 | Application package version | `1.0.0` |
 | Authoritative product specification | Version 3 |
 | Current design | Version 3.1 |
-| Deployed source revision | `8c95565` |
+| Initial production revision | `8c95565` |
+| Current production revision | Latest `main` revision with a successful Pages deployment workflow |
 | Repository | Public GitHub repository `Fe-Al/summit-challenge` |
 | Production site | `https://fe-al.github.io/summit-challenge/` |
 | Production origin | `https://fe-al.github.io` |
