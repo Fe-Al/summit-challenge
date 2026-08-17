@@ -119,3 +119,14 @@ tests/                          Vitest unit and persistence tests
 .github/workflows/              Least-privilege Pages pipeline
 docs/                           Authoritative and archived specifications/designs
 ```
+
+## Documentation
+
+- [Specification Version 3](docs/specifications/summit-challenge-specification-v3.md)
+  is the authoritative product specification.
+- [Design Overview Version 3.1](docs/design-overview-v3.1.md) describes the
+  current as-deployed architecture and operations.
+- [Initial production deployment](docs/releases/2026-08-17-initial-deployment.md)
+  records release identity, evidence, limitations and outstanding verification.
+- [Design Overview Version 3](docs/design-overview-v3.md) is retained as the
+  archived planned baseline.
